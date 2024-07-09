@@ -8,7 +8,7 @@ With the help of this [site](https://www.conceptispuzzles.com/index.aspx?uri=puz
 
 ## Get Started
 
-[Demo]()
+[Demo](https://youtu.be/grAUYCnaC3k)
 
 Left Entry widget takes space separated perfect square number of values arranged to represent the Hitori grid.
 
